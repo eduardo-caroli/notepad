@@ -1,7 +1,7 @@
-# notepad
+# About notepad
 This is a notepad implementation that uses Lua and the LÖVE2D framework. Currently, it only runs on Mac and supports doodling and writing simple texts. This is a work in progress.
 ## Doodling
-There are three features supported in doodling: **rectangles**, **circles** and **free lines**. Press the "L" key for lines, the "R" key for rectangles and the "C" key for circles. Also, press the "F" key to ~~pay respects~~ switch between fill mode and empty mode.
+There are three features supported in doodling: **rectangles**, **circles** and **free lines**. Press the "L" key for lines, the "R" key for rectangles and the "C" key for circles. Also, press the "F" key to ~~pay respects~~ switch between fill mode (filled rectangles and circles) and  empty mode (empty rectangles and circles).
 - When drawing rectangles, click one time to specify the first corner, then another time to specify the second corner.
 - When drawing circles, click one time to specify the center point, then another to define the radius.
 - When drawing lines, just keep the mouse clicked and drag it across the screen.
